@@ -48,6 +48,7 @@ The node operates in a continuous loop:
 
 1. **Subscribe:** Captures raw RGB frames from the TIAGo Astra camera topic.
 2. **Inference:** Sends the image and prompt to the VLA model (Qwen2.5-VL) to classify the scene.
-3. **Actuate:** * **TURN:** If an obstacle (e.g., tree) is detected (Angular Velocity = 1.0 rad/s).
+3. **Actuate:**
+    * **TURN:** If an obstacle (e.g., tree) is detected (Angular Velocity = 1.0 rad/s).
     * **FORWARD:** If the path to the door is clear (Linear Velocity = 0.2 m/s).
     * **GOAL:** Mission complete once the target is reached.
