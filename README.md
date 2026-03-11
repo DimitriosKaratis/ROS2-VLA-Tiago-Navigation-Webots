@@ -48,7 +48,15 @@ Unlike traditional navigation stacks, this implementation uses a **Multi-Agent P
    ```bash
    python3 tiago_ai_navigator.py
    ```
+## 🖼️ Simulation Environment & Perception
 
+The following snapshots illustrate the simulation setup in **Webots** and the real-time data visualization via **Foxglove Studio**.
+
+| Webots Global View | Foxglove AI Perception |
+|:---:|:---:|
+| ![Webots View](webots_snapshot.jpg) | ![Foxglove View](foxglove_snapshot.jpg) |
+
+*Left: The TIAGo robot in the office environment aiming for the white door. Right: Real-time camera feed and pointcloud visualization used for VLA reasoning.*
 
 ## 🎥 Logic Flow & Control Theory
 
