@@ -54,7 +54,7 @@ The following snapshots illustrate the simulation setup in **Webots** and the re
 
 | Webots Global View | Foxglove AI Perception |
 |:---:|:---:|
-| ![Webots View](webots_snapshot.png) |  |
+| ![Webots View](webots_snapshot.png) | ![Foxglove View](foxglove_snapshot.png) |
 
 *Left: The TIAGo robot in the office environment aiming for the white door. Right: Real-time camera feed used for VLA reasoning.*
 
