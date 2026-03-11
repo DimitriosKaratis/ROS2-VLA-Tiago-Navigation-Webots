@@ -56,7 +56,7 @@ The following snapshots illustrate the simulation setup in **Webots** and the re
 |:---:|:---:|
 | ![Webots View](webots_snapshot.png) | ![Foxglove View](foxglove_snapshot.png) |
 
-*Left: The TIAGo robot in the office environment aiming for the white door. Right: Real-time camera feed and pointcloud visualization used for VLA reasoning.*
+*Left: The TIAGo robot in the office environment aiming for the white door. Right: Real-time camera feed used for VLA reasoning.*
 
 ## 🎥 Logic Flow & Control Theory
 
